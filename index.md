@@ -1,7 +1,6 @@
 ---
 layout: home
 header:
-  image: assets/img/favicon.ico
   title: Asher Chaim Capital Ventures
   text: >
     Start Bootstrap can help you build better websites using the Bootstrap
