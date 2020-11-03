@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Asher Chaim Capital Ventures
+  title: Asher Chaim <br /> Capital Ventures
   text: >
         Insert slogan here
   action: # action button is optional
