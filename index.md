@@ -32,10 +32,10 @@ sections:
         icon: fa-seedling
       - title: Tech Forward
         text: Our experience in the tech-field seperates us from the rest, and helps us find the best available investments. 
-        icon: fa-laptop-house
+        icon: fa-laptop-code
       - title: Protect Your Investment
         text: write something here
-        icon: fa-lock-alt
+        icon: fa-lock
       - title: Other 1
         text: Some not-so long text here.
         icon: fa-heart
