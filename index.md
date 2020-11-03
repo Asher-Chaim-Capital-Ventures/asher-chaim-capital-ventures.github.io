@@ -1,12 +1,11 @@
 ---
 layout: home
 header:
-  title: Asher Chaim Capital Ventures
+  title: Asher Chaim 
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Capital Ventures
   action: # action button is optional
-    label: Find Out More
+    label: Learn More
     url: '#about'
 
 
