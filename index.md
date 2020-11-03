@@ -25,7 +25,7 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: What We Offer
     services:
       - title: Grow Your Principle 
         text: Allow us to find the best place where your money can reach its potential
@@ -44,6 +44,7 @@ sections:
     # this section has always ID 'portfolio'
     #section_id: portfolio
     #background_style: bg-dark
+    title: Our Asset Classes
     projects:
       - title: Residential Properties
         text: This is a very short description.
