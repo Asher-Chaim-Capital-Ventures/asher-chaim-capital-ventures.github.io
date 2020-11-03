@@ -1,9 +1,9 @@
 ---
 layout: home
 header:
-  title: Asher Chaim 
+  title: Asher Chaim Capital Ventures
   text: >
-    Capital Ventures
+        Insert slogan here
   action: # action button is optional
     label: Learn More
     url: '#about'
