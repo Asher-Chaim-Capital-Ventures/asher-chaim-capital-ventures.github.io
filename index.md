@@ -27,15 +27,15 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
+      - title: Grow Your Principle 
+        text: Allow us to find the best place where your money can reach its potential
+        icon: fa-seedling
+      - title: Tech Forward
+        text: Our experience in the tech-field seperates us from the rest, and helps us find the best available investments. 
+        icon: fa-laptop-house
+      - title: Protect Your Investment
+        text: write something here
+        icon: fa-lock-alt
       - title: Other 1
         text: Some not-so long text here.
         icon: fa-heart
