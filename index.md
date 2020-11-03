@@ -19,7 +19,7 @@ sections:
     text: Asher Chaim Capital Ventures does x, y, and z to help you grow and protect your investment.  
     actions:
       - title: Get Started!
-        url: '#page-top'
+        url: '#services'
         class: btn-light
 
   - type: services.html
@@ -31,7 +31,7 @@ sections:
         text: Allow us to find the best place where your money can reach its potential
         icon: fa-seedling
       - title: Tech Forward
-        text: Our experience in the tech-field seperates us from the rest, and helps us find the best available investments. 
+        text: Our experience in the tech-field seperates us from the rest, and helps us find you the best possible investments. 
         icon: fa-laptop-code
       - title: Protect Your Investment
         text: write something here
@@ -45,32 +45,32 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: Residential Properties
+        text: This is a very short description.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        icon: residential.jpg
         url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
+      - title: Multi-Family Homes
+        text: This is a very short description.
+        icon: multifamily.jpg
         url: '#'
-      - title: Project 3
-        text: This is a very short project description.
+      - title: Apartment Complexes
+        text: This is a very short description.
+        icon: apartments.jpg
+        url: '#'
+      - title: Office Space
+        text: This is a very short description.
         icon: office.jpg
         url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
+      - title: Property Developement
+        text: This is a very short description.
+        icon: developement.jpg
         url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
+      - title: Commercial Property
+        text: This is a very short description.
+        icon: commercial.jpg
         url: '#'
 
 #  - type: aside.html
