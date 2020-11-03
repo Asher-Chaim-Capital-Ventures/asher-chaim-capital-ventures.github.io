@@ -124,7 +124,7 @@ sections:
     section_id: contacts
     title: Contact Us Today!
     text: >-
-      Ready to start investing with Asher Chaim? Give us a call or send us an email
+      Ready to start investing with Asher Chaim? <br />Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
     - title: +1 (202) 555-014
@@ -132,13 +132,24 @@ sections:
     - title: E-Mail
       icon: fa-envelope
       url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: fa-twitter
+
+
+  -type: contact.html
+    section_id: connect
+    title: Let's Connect!
+    text: >-
+      Follow us on social media!
+    actions:
+    - title: Instagram
+      icon: fa-instagram
       icon_type: fab
       url: '#'
     - title: Facebook
       icon: fa-facebook
       icon_type: fab
       url: '#'
-
+    - title: LinkedIn
+      icon: fa-linkedin
+      icon_type: fab
+      url: '#'
 ---
