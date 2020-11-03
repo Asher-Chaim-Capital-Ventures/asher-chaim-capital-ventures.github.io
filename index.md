@@ -132,6 +132,10 @@ sections:
     - title: E-Mail
       icon: fa-envelope
       url: mailto:contact@yourwebsite.com
+    - title: LinkedIn
+      icon: fa-linkedin
+    - title: Facebook
+      icon: fa-facebook
 
 
 
