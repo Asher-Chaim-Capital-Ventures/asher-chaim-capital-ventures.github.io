@@ -134,22 +134,5 @@ sections:
       url: mailto:contact@yourwebsite.com
 
 
-  -type: contact.html
-    section_id: connect
-    title: Let's Connect!
-    text: >-
-      Follow us on social media!
-    actions:
-    - title: Instagram
-      icon: fa-instagram
-      icon_type: fab
-      url: '#'
-    - title: Facebook
-      icon: fa-facebook
-      icon_type: fab
-      url: '#'
-    - title: LinkedIn
-      icon: fa-linkedin
-      icon_type: fab
-      url: '#'
+
 ---
