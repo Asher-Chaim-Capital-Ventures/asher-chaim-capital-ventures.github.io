@@ -131,7 +131,7 @@ sections:
     section_id: contacts
     title: Contact Us Today!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
+      Ready to start investing with Asher Chaim? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
     - title: +1 (202) 555-014
