@@ -83,7 +83,7 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: Our Team
     background_style: bg-info text-white
     members:
       - title: Sean Reger-Flores
