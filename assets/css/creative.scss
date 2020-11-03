@@ -4298,6 +4298,7 @@ input[type=button].btn-block {
 
 .navbar-dark .navbar-brand {
   color: #fff;
+  backgroud-color
 }
 .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
   color: #fff;
@@ -10036,16 +10037,16 @@ hr.light {
   }
   #mainNav.navbar-scrolled {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #fff;
+    background-color: #303030;
   }
   #mainNav.navbar-scrolled .navbar-brand {
-    color: #212529;
+    color: #fffced;
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
     color: #ffc369;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
-    color: #212529;
+    color: #fffced;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
     color: #ffc369;
