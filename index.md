@@ -2,6 +2,7 @@
 layout: home
 header:
   title: Asher Chaim <br /> Capital Ventures
+  text: > Capital Ventures
   text: >
         Insert slogan here
   action: # action button is optional
@@ -79,12 +80,12 @@ sections:
         url: '#'
 
 #  - type: aside.html
- #   section_id: aside
-  #  title: Free Download at Start Bootstrap!
-   # actions:
-    #  - title: Download Now!
-     #   url: https://startbootstrap.com/themes/creative/
-      #  class: btn-light
+#   section_id: aside
+#  title: Free Download at Start Bootstrap!
+# actions:
+#  - title: Download Now!
+#   url: https://startbootstrap.com/themes/creative/
+#  class: btn-light
 
   - type: members.html
     section_id: members
