@@ -134,8 +134,10 @@ sections:
       url: mailto:contact@yourwebsite.com
     - title: LinkedIn
       icon: fa-linkedin
+      icon_type: fab
     - title: Facebook
       icon: fa-facebook
+      icon_type: fab
 
 
 
