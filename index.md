@@ -1,12 +1,11 @@
 ---
 layout: home
 header:
-  title: Asher Chaim <br /> Capital Ventures
-  text: > Capital Ventures
+  title: Asher Chaim 
   text: >
-        Insert slogan here
+        Capital Ventures
   action: # action button is optional
-    label: Learn More
+    label: Learn More About Investing with AC
     url: '#about'
 
 
