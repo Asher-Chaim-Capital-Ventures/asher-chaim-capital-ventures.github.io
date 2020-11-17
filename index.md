@@ -13,7 +13,7 @@ header:
 
 sections:
   - type: call-to-action.html
-    section_id: about
+    section_id: about us
     background_style: bg-primary
     title: About Us
     text: Asher Chaim Capital Ventures is a boutique multi-family and mixed-use real estate investment & property management company with a track record of building portfolios that deliver dependable cash flow and equity upside. By pooling our capital together, along with a select group of other investors, we can offer nimble capital for real estate equity investments. Our value-add approach allows us to deliver strong returns to our investors. We target value-add multi-family and mixed use properties, and create significant equity by increasing cash flow and forcing appreciation through capital improvements. Our residents and tenants are the lifeblood of our assets. We strive to create vibrant communities where people are excited to live and work.  
@@ -23,7 +23,7 @@ sections:
         class: btn-light
 
   - type: services.html
-    section_id: services
+    section_id: investment approach
     #background_style: bg-info
     title: Investment Approach
     services:
@@ -66,7 +66,7 @@ sections:
         icon: office.jpg
         url: '#'
       - title: 5. Disposition
-        text: TSell asset at an increased price due to forced appreciation through value-add enhancements and enjoy profit.
+        text: Sell asset at an increased price due to forced appreciation through value-add enhancements and enjoy profit.
         icon: developement.jpg
         url: '#'
       - title: 6. Some other step
