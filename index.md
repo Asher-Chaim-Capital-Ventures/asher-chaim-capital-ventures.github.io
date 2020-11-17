@@ -15,7 +15,7 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: Changing the Game
+    title: About Us
     text: Asher Chaim Capital Ventures is a boutique multi-family and mixed-use real estate investment & property management company with a track record of building portfolios that deliver dependable cash flow and equity upside. By pooling our capital together, along with a select group of other investors, we can offer nimble capital for real estate equity investments. Our value-add approach allows us to deliver strong returns to our investors. We target value-add multi-family and mixed use properties, and create significant equity by increasing cash flow and forcing appreciation through capital improvements. Our residents and tenants are the lifeblood of our assets. We strive to create vibrant communities where people are excited to live and work.  
     actions:
       - title: Get Started!
@@ -25,7 +25,7 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: What We Offer
+    title: Investment Approach
     services:
       - title: Grow Your Principle 
         text: Allow us to find the best place where your money can reach its potential
@@ -44,32 +44,32 @@ sections:
     # this section has always ID 'portfolio'
     #section_id: portfolio
     #background_style: bg-dark
-    title: Our Asset Classes
+    title: Our Process
     projects:
-      - title: Residential Properties
-        text: This is a very short description.
+      - title: 1. Acquisition
+        text: Buy in growth markets and perform comprehensive due diligence to increase income and valuation.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: residential.jpg
         url: '#'
-      - title: Multi-Family Homes
-        text: This is a very short description.
+      - title: 2. Reposition
+        text: Rehab interiors/exteriors & re-brand property to attract higher quality tenants and higher rents.
         icon: multifamily.jpg
         url: '#'
-      - title: Apartment Complexes
-        text: This is a very short description.
+      - title: 3. Refinance
+        text: Have property re-appraised, which capitalizes on newly created value & return a significant piece of investors capital back.
         icon: apartments.jpg
         url: '#'
-      - title: Office Space
-        text: This is a very short description.
+      - title: 4. Cash Flow
+        text: Put in place our or third-party property management team to continue daily operations, while investors enjoy a high yielding tax-efficient asset.
         icon: office.jpg
         url: '#'
-      - title: Property Developement
-        text: This is a very short description.
+      - title: 5. Disposition
+        text: TSell asset at an increased price due to forced appreciation through value-add enhancements and enjoy profit.
         icon: developement.jpg
         url: '#'
-      - title: Commercial Property
+      - title: 6. Some other step
         text: This is a very short description.
         icon: commercial.jpg
         url: '#'
@@ -84,7 +84,7 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Team
+    title: Our Leadership Team
     background_style: bg-info text-white
     members:
       - title: Sean Reger-Flores
